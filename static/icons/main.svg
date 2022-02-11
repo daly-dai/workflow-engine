@@ -1,0 +1,535 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="529" height="1277" shape-rendering="optimizeSpeed">
+                
+            <g>
+                <rect x="50" y="80"
+            width="164.8" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="80" x2="55" y2="110"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="209.8" y1="80" x2="209.8" y2="110"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;vue&apos;</title>
+            <text x="70" y="100"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="100">import from&apos;vue&apos;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="128.5"
+            width="100.2" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>createApp</title>
+            <text x="102" y="148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="148.5">createApp</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="192"
+            width="211.6" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="192" x2="55" y2="222"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="256.6" y1="192" x2="256.6" y2="222"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;./App.vue&apos;</title>
+            <text x="70" y="212"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="212">import from&apos;./App.vue&apos;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="240.5"
+            width="53.4" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>App</title>
+            <text x="102" y="260.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="260.5">App</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="304"
+            width="196" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="304" x2="55" y2="334"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="241" y1="304" x2="241" y2="334"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;echarts&apos;</title>
+            <text x="70" y="324"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="324">import from&apos;echarts&apos;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="352.5"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>echarts</title>
+            <text x="102" y="372.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="372.5">echarts</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="416"
+            width="250.6" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="416" x2="55" y2="446"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="295.6" y1="416" x2="295.6" y2="446"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;./router/index&apos;</title>
+            <text x="70" y="436"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="436">import from&apos;./router/index&apos;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="464.5"
+            width="76.8" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>router</title>
+            <text x="102" y="484.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="484.5">router</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="528"
+            width="196" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="528" x2="55" y2="558"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="241" y1="528" x2="241" y2="558"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;./store&apos;</title>
+            <text x="70" y="548"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="548">import from&apos;./store&apos;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="576.5"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>pinia</title>
+            <text x="102" y="596.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="596.5">pinia</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="640"
+            width="453.4" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="640" x2="55" y2="670"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="498.4" y1="640" x2="498.4" y2="670"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;@packages/components/theme-default/index.less&apos;</title>
+            <text x="70" y="660"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="660">import from&apos;@packages/components/theme-default/ind...</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="50" y="688.5"
+            width="375.4" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="688.5" x2="55" y2="718.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="420.4" y1="688.5" x2="420.4" y2="718.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;@/assets/iconfont/iconfont.css&apos;</title>
+            <text x="70" y="708.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="708.5">import from&apos;@/assets/iconfont/iconfont.css&apos;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="50" y="737"
+            width="367.59999999999997" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="737" x2="55" y2="767"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="412.59999999999997" y1="737" x2="412.59999999999997" y2="767"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;@/assets/iconfont/iconfont.js&apos;</title>
+            <text x="70" y="757"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="757">import from&apos;@/assets/iconfont/iconfont.js&apos;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="50" y="785.5"
+            width="352" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="785.5" x2="55" y2="815.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="397" y1="785.5" x2="397" y2="815.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;./assets/tailwind/index.css&apos;</title>
+            <text x="70" y="805.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="805.5">import from&apos;./assets/tailwind/index.css&apos;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="50" y="834"
+            width="266.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="834" x2="55" y2="864"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="311.2" y1="834" x2="311.2" y2="864"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;./plugins/inject&apos;</title>
+            <text x="70" y="854"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="854">import from&apos;./plugins/inject&apos;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="882.5"
+            width="162.6" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>injectGlobOptions</title>
+            <text x="102" y="902.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="902.5">injectGlobOptions</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="931"
+            width="232.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const app = createApp(App)</title>
+            <text x="65" y="951"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="951">const app = createApp(App)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="979.5"
+            width="388.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>app.config.globalProperties.$echarts = echarts</title>
+            <text x="65" y="999.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="999.5">app.config.globalProperties.$echarts = echarts</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1028"
+            width="139.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>app.use(pinia)</title>
+            <text x="65" y="1048"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1048">app.use(pinia)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1076.5"
+            width="201.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>injectGlobOptions(app)</title>
+            <text x="65" y="1096.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1096.5">injectGlobOptions(app)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1125"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>app.use(router)</title>
+            <text x="65" y="1145"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1145">app.use(router)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1173.5"
+            width="264" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(app, 777575757575)</title>
+            <text x="65" y="1193.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1193.5">console.log(app, 777575757575)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1222"
+            width="162.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>app.mount(&apos;#app&apos;)</title>
+            <text x="65" y="1242"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1242">app.mount(&apos;#app&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="216.6" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Program: source module</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 91 Q25 95
+                29 95
+                L42 95 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 92 L50, 95 L42, 98 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 110 L68.5 139.5 Q68.5 143.5
+                72.5 143.5
+                L87 143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 203 Q25 207
+                29 207
+                L42 207 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 204 L50, 207 L42, 210 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 251.5 Q68.5 255.5
+                72.5 255.5
+                L87 255.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 315 Q25 319
+                29 319
+                L42 319 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 316 L50, 319 L42, 322 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 334 L68.5 363.5 Q68.5 367.5
+                72.5 367.5
+                L79 367.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 364.5 L87, 367.5 L79, 370.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 427 Q25 431
+                29 431
+                L42 431 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 428 L50, 431 L42, 434 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 446 L68.5 475.5 Q68.5 479.5
+                72.5 479.5
+                L87 479.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 539 Q25 543
+                29 543
+                L42 543 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 540 L50, 543 L42, 546 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 558 L68.5 587.5 Q68.5 591.5
+                72.5 591.5
+                L87 591.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 651 Q25 655
+                29 655
+                L42 655 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 652 L50, 655 L42, 658 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 699.5 Q25 703.5
+                29 703.5
+                L42 703.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 700.5 L50, 703.5 L42, 706.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 748 Q25 752
+                29 752
+                L42 752 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 749 L50, 752 L42, 755 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 796.5 Q25 800.5
+                29 800.5
+                L42 800.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 797.5 L50, 800.5 L42, 803.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 845 Q25 849
+                29 849
+                L42 849 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 846 L50, 849 L42, 852 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 864 L68.5 893.5 Q68.5 897.5
+                72.5 897.5
+                L87 897.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 942 Q25 946
+                29 946
+                L42 946 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 943 L50, 946 L42, 949 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 990.5 Q25 994.5
+                29 994.5
+                L42 994.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 991.5 L50, 994.5 L42, 997.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1039 Q25 1043
+                29 1043
+                L42 1043 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1040 L50, 1043 L42, 1046 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1087.5 Q25 1091.5
+                29 1091.5
+                L42 1091.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1088.5 L50, 1091.5 L42, 1094.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1136 Q25 1140
+                29 1140
+                L42 1140 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1137 L50, 1140 L42, 1143 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1184.5 Q25 1188.5
+                29 1188.5
+                L42 1188.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1185.5 L50, 1188.5 L42, 1191.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1233 Q25 1237
+                29 1237
+                L42 1237 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1234 L50, 1237 L42, 1240 Z" 
+        fill="#333" />
+            </g>
+            </svg>

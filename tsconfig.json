@@ -1,0 +1,37 @@
+{
+  "include": [
+    "src/*",
+    "src/**/*.vue",
+    "src/**/*.tsx",
+    "src/**/*.jsx",
+    "src/**/*.ts",
+    "src/**/*.js",
+    "types/shims-vue.d.ts"
+  ],
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "esnext",
+    "module": "esnext",
+    // 这样就可以对 `this` 上的数据属性进行更严格的推断
+    "strict": true,
+    "jsx": "preserve",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "paths": {
+      // 根据别名配置相关路径
+      "@/*": ["src/*"],
+      "@packages/*": ["src/packages/*"],
+      "@views/*": ["src/views/*"],
+      "@common/*": ["src/common/*"],
+      "@plugins/*": ["src/plugins/*"],
+      "@store/*": ["src/store/*"],
+      "@utils/*": ["src/utils/*"],
+      "@config/*": ["src/config/*"],
+      "@router/*": ["src/router/*"],
+      "@service/*": ["src/service/*"],
+      "@types/*": ["types/*"]
+    }
+  }
+}

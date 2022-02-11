@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.history
+
+# user option files
+proxy-self.js
+

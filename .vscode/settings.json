@@ -1,0 +1,52 @@
+{
+  "eslint.format.enable": true, // 格式化程序支持
+  "editor.formatOnSave": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.confirmSync": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+   "eslint.codeAction.showDocumentation": {
+       "enable": true
+     },
+     "eslint.codeAction.disableRuleComment": {
+       "enable": true
+     },
+     "eslint.validate": ["javascript", "javascriptreact"],
+     "eslint.codeActionsOnSave.mode": "all",
+     "eslint.run": "onSave",
+   ​
+     "editor.defaultFormatter": null,
+    //  "editor.formatOnSave": false,
+     "editor.codeActionsOnSave": {
+       "source.fixAll.eslint": true,
+    //    "source.fixAll.stylelint": true
+    "source.fixAll": true
+     },
+  "cSpell.words": [
+    "camelcase",
+    "commitlint",
+    "mesg",
+    "pinia",
+    "unplugin",
+    "VITE",
+    "vitejs",
+    "vueuse",
+    "Windi",
+    "windicss"
+  ],
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

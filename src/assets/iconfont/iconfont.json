@@ -1,0 +1,499 @@
+{
+  "id": "2414521",
+  "name": "数字经济应用",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23850828",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "23777074",
+      "name": "行业",
+      "font_class": "hangye",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "398871",
+      "name": "差评",
+      "font_class": "chaping",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "398877",
+      "name": "好评",
+      "font_class": "haoping",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "398889",
+      "name": "中评",
+      "font_class": "zhongping",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "23340381",
+      "name": "对标",
+      "font_class": "duibiao",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "23340382",
+      "name": "分布",
+      "font_class": "fenbu",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "23340383",
+      "name": "排名",
+      "font_class": "paiming1",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "22070090",
+      "name": "重点区域",
+      "font_class": "zhongdianquyu",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "22070091",
+      "name": "重点行业",
+      "font_class": "zhongdianhangye",
+      "unicode": "e739",
+      "unicode_decimal": 59193
+    },
+    {
+      "icon_id": "22070092",
+      "name": "重点企业",
+      "font_class": "zhongdianqiye",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "21988297",
+      "name": "可以收起",
+      "font_class": "keyishouqi",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "21988298",
+      "name": "可以展开",
+      "font_class": "keyizhankai",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "21755396",
+      "name": "icon4",
+      "font_class": "icon4",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "21120378",
+      "name": "指标图标",
+      "font_class": "zhibiaotubiao",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "20944595",
+      "name": "上升",
+      "font_class": "shangsheng",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "20944596",
+      "name": "下降",
+      "font_class": "xiajiang",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "689253",
+      "name": "箭头 上升",
+      "font_class": "jiantoushangsheng",
+      "unicode": "e7f1",
+      "unicode_decimal": 59377
+    },
+    {
+      "icon_id": "20927511",
+      "name": "排名",
+      "font_class": "paiming",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "20871984",
+      "name": "分析icon",
+      "font_class": "fenxiicon",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "20871985",
+      "name": "指标",
+      "font_class": "zhibiao",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "20844281",
+      "name": "科创平台",
+      "font_class": "kechuangpingtai",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "20843724",
+      "name": "资源要素",
+      "font_class": "ziyuanyaosu",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "20843683",
+      "name": "未来工厂",
+      "font_class": "weilaigongchang",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "20843488",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "20843489",
+      "name": "产业大脑",
+      "font_class": "chanyedanao",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "18320823",
+      "name": "空数据",
+      "font_class": "kongshuju",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "20775012",
+      "name": "插图1@2x",
+      "font_class": "chatu12x",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "20775014",
+      "name": "插图2@2x",
+      "font_class": "chatu22x",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "20775061",
+      "name": "插图3@2x",
+      "font_class": "chatu32x",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "20771567",
+      "name": "C@2x",
+      "font_class": "C2x",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "20771568",
+      "name": "B@2x",
+      "font_class": "B2x",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "20771569",
+      "name": "A@2x",
+      "font_class": "A2x",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "20771570",
+      "name": "D@2x",
+      "font_class": "D2x",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "20771520",
+      "name": "预警2备份@2x",
+      "font_class": "yujing2beifen2x",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "20771521",
+      "name": "预警2@2x",
+      "font_class": "yujing22x",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "20771522",
+      "name": "预警@2x",
+      "font_class": "yujing2x",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "20636396",
+      "name": "常用图标",
+      "font_class": "changyongtubiao",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "20550234",
+      "name": "规范引导@2x",
+      "font_class": "guifanyindao2x",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "20550235",
+      "name": "标准规范@2x",
+      "font_class": "biaozhunguifan2x",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    },
+    {
+      "icon_id": "20550236",
+      "name": "金融服务@2x",
+      "font_class": "jinrongfuwu2x",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "20550237",
+      "name": "财税支持@2x",
+      "font_class": "caishuizhichi2x",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "20550238",
+      "name": "精准合作备份@2x",
+      "font_class": "jingzhunhezuobeifen2x",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "20550239",
+      "name": "科技创新@2x",
+      "font_class": "kejichuangxin2x",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "20549774",
+      "name": "环境保护@2x",
+      "font_class": "huanjingbaohu2x",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "18154272",
+      "name": "icon--scrm-01",
+      "font_class": "icon--scrm-01",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "18154657",
+      "name": "icon--scrm-16",
+      "font_class": "icon--scrm-16",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "18154658",
+      "name": "icon--scrm-17",
+      "font_class": "icon--scrm-17",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "18154660",
+      "name": "icon--scrm-13",
+      "font_class": "icon--scrm-13",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18154664",
+      "name": "icon--scrm-21",
+      "font_class": "icon--scrm-21",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "18154665",
+      "name": "icon--scrm-19",
+      "font_class": "icon--scrm-19",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "18154668",
+      "name": "icon--scrm-20",
+      "font_class": "icon--scrm-20",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "18154678",
+      "name": "icon--scrm-26",
+      "font_class": "icon--scrm-26",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "18154682",
+      "name": "icon--scrm-38",
+      "font_class": "icon--scrm-38",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "18154684",
+      "name": "icon--scrm-35",
+      "font_class": "icon--scrm-35",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "20323075",
+      "name": "icon 金融服务@3x",
+      "font_class": "iconjinrongfuwu3x",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "20323035",
+      "name": "icon 引导@3x",
+      "font_class": "iconyindao3x",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "20323036",
+      "name": "icon 规范@3x",
+      "font_class": "iconguifan3x",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "20323037",
+      "name": "icon 财税支持@3x",
+      "font_class": "iconcaishuizhichi3x",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "20323039",
+      "name": "icon 要素保障@3x",
+      "font_class": "iconyaosubaozhang3x",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "20323040",
+      "name": "icon 科技创新@3x",
+      "font_class": "iconkejichuangxin3x",
+      "unicode": "e717",
+      "unicode_decimal": 59159
+    },
+    {
+      "icon_id": "20322782",
+      "name": "digital-safe@3x",
+      "font_class": "digital-safe3x",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "20322783",
+      "name": "xinnengyuan-car@3x",
+      "font_class": "xinnengyuan-car3x",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "20319453",
+      "name": "icon 数字贸易@3x",
+      "font_class": "iconshuzimaoyi3x",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "20319454",
+      "name": "icon 科创平台@3x",
+      "font_class": "iconkechuangpingtai3x",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "20319456",
+      "name": "icon 未来工厂@3x",
+      "font_class": "iconweilaigongchang3x",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "20319457",
+      "name": "icon 工业互联网@3x",
+      "font_class": "icongongyehulianwang3x",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "20319458",
+      "name": "icon 产业大脑@3x",
+      "font_class": "iconchanyedanao3x",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "20319459",
+      "name": "icon 资源要素@3x",
+      "font_class": "iconziyuanyaosu3x",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "20319460",
+      "name": "icon 未来产业先导@3x",
+      "font_class": "iconweilaichanyexiandao3x",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    }
+  ]
+}
